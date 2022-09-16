@@ -1,0 +1,44 @@
+{
+    "_id" : ObjectId("6324d64d67f2e8151e0fc44a"),
+    "nome" : "Desenvolvimento WEB",
+    "faculdade" : "Faculdade de Engenharia de Computação",
+    "curso" : "Engenharia de Computação",
+    "professor" : [
+        {
+            "_id" : ObjectId("630a6f8717966e378f2a079b")
+        }
+    ],
+    "alunos" : [
+        {
+            "_id" : ObjectId("630a6eb317966e378f2a0797")
+        },
+        {
+            "_id" : ObjectId("630a6f1c17966e378f2a0798")
+        },
+        {
+            "_id" : ObjectId("630a6f1c17966e378f2a0799")
+        },
+        {
+            "_id" : ObjectId("630a6f1c17966e378f2a079a")
+        }
+    ]
+}
+{
+    "_id" : ObjectId("6324d64d67f2e8151e0fc44b"),
+    "nome" : "Organização de Sistemas de Computação",
+    "faculdade" : "Faculdade de Engenharia de Computação",
+    "curso" : "Engenharia de Computação",
+    "professor" : [
+        {
+            "_id" : ObjectId("630a6f8717966e378f2a079c")
+        }
+    ],
+    "alunos" : [
+        {
+            "_id" : ObjectId("630a6f1c17966e378f2a0799")
+        },
+        {
+            "_id" : ObjectId("630a6f1c17966e378f2a079a")
+        }
+    ]
+}
